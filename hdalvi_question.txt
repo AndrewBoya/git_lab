@@ -1,3 +1,3 @@
 What is your favorite part about git?
 
-It's new and exciting!
+It's collaboration capabilities and novelty.
